@@ -9,6 +9,7 @@ packages = [{include = "learn_django_htmx"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+django = "^4.1.5"
 
 
 [build-system]
